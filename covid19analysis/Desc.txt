@@ -1,0 +1,2 @@
+Here is a general analysis of global pendemic covid 19 along the world using data and science and python libraries 
+this is done on jupyter notebook
